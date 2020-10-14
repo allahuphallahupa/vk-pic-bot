@@ -1,0 +1,10 @@
+
+2020-10-14 18:43:40,274 root ERROR:[Errno 2] No such file or directory: '\\pics\\ pic.jpg'
+2020-10-14 18:45:41,865 root ERROR:name 'pics' is not defined
+2020-10-14 18:46:03,872 root ERROR:expected str, bytes or os.PathLike object, not module
+2020-10-14 18:46:35,090 root ERROR:expected str, bytes or os.PathLike object, not module
+2020-10-14 18:47:39,614 root ERROR:expected str, bytes or os.PathLike object, not module
+2020-10-14 18:48:35,460 root ERROR:expected str, bytes or os.PathLike object, not module
+2020-10-14 18:49:14,485 root ERROR:expected str, bytes or os.PathLike object, not module
+2020-10-14 18:50:46,328 root ERROR:expected str, bytes or os.PathLike object, not module
+2020-10-14 18:52:20,786 root ERROR:name 'os' is not defined
